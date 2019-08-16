@@ -10,6 +10,7 @@ public class Main {
         System.out.println("33333");
         System.out.println("修改代码");
         System.out.println("小红添加了代码");
+        System.out.println("小明添加了代码");
         
 
 
