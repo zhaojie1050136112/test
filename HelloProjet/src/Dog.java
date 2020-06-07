@@ -3,7 +3,7 @@ public class Dog {
 
         System.out.println("泰迪");
 
-        System.out.println("金毛");
+        System.out.println("松狮");
 
     }
 }
