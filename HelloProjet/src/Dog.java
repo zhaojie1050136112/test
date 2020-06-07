@@ -6,7 +6,7 @@ public class Dog {
 
         System.out.println("松狮");
 
-        System.out.println("哈士奇");
+        System.out.println("二哈");
 
 
     }
